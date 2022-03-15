@@ -14,7 +14,7 @@
   <img align="center" alt="Jonathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jonathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonathan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="right" alt="hello-gif" height="180" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/943325751892127796/951719288182542356/2yRY.gif">
+   <img align="right" alt="hello-gif" height="180" style="border-radius:50px;" src="https://c.tenor.com/f_HNoS-aBzAAAAAC/hey-buddy-whats-up.gif">
 </div>
 </div>
 
