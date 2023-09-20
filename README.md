@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, my name is Jonathan👋</h1>
-<h3 align="center">I'm studying of computer cience</h3>
+<h3 align="center">I'm studying of computer science</h3>
 <a href="https://github.com/JonathanAsf/JonathanAsf">
   
   <img height="200m" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAsf&layout=compact&langs_count=7&theme=dracula"/>
