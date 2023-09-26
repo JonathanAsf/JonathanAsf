@@ -1,22 +1,30 @@
 <h1 align="center">Hi there, my name is Jonathan👋</h1>
 <h3 align="center">I'm studying of computer science</h3>
 <a href="https://github.com/JonathanAsf/JonathanAsf">
+
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JonathanAsf&theme=radical&mode=weekly"/>
+<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAsf&layout=compact&langs_count=7&theme=dracula"/>
+
+  #
+
+
+#### Main Stack:
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+#
+
+#### Workstation Tools:
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+
+  #
   
-  <img height="200m" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAsf&layout=compact&langs_count=7&theme=dracula"/>
-
-##  
-<div style="display: inline_block">
-  <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="icon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right"  alt="hello-gif" height="180em"  src="https://media.tenor.com/b4ma74q0qL8AAAAC/your-welcome.gif">
- <div class="tenor-gif-embed" data-postid="23991412" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/your-welcome-gif-23991412"><a href="https://tenor.com/search/your+welcome-gifs"></a></div>
-</div>
-</div>
-
-  ##
 <div>
   <a href = "mailto:jonathan.a.farias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
   <a href="https://www.linkedin.com/in/jonathan-almeida-072b9818b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
