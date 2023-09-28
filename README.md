@@ -1,12 +1,13 @@
 <h1 align="center">Hi there, my name is Jonathan👋</h1>
-<h3 align="center">I'm studying of computer science</h3>
-<a href="https://github.com/JonathanAsf/JonathanAsf">
 
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JonathanAsf&theme=radical&mode=weekly"/>
+
+<img width=55% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=JonathanAsf&theme=radical&mode=weekly"/>
 <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanAsf&layout=compact&langs_count=7&theme=dracula"/>
 
-  #
+##
 
+<h2> in the 4th period of the gratuation of computer science and I do a lot of personal projects to pratice what I see in the college and in the internet </h2>
+<h3>Down here it's some of skills that I have. I don't put everything but soon will be complete</h3>
 
 #### Main Stack:
 
