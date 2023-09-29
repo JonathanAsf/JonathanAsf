@@ -6,8 +6,8 @@
 
 ##
 
-<h2> I'm in the 4th period of the gratuation of computer science and I do a lot of personal projects to pratice what I see in the college and in the internet </h2>
-<h3>Down here it's some of skills that I have. I don't put everything but soon will be complete</h3>
+  <span> I'm in the 4th period of the gratuation of computer science and I do a lot of personal projects to pratice what I see in the college and in the internet </span>
+  <p> Down here it's some of skills that I have. I don't put everything but soon will be complete</p>
 
 #### Main Stack:
 
