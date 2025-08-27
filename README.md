@@ -47,8 +47,9 @@ ubuntu
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JonathanAsf}/count.svg" /></p> 
+<br><p align="centre"><b>Visitors Count</b></p>
+  
+![JonathanAsf](https://komarev.com/ghpvc/?username=JonathanAsf&style=for-the-badge&label=VIEWS&abbreviated=true&color=2E819F)
 <br></div>
 
 
